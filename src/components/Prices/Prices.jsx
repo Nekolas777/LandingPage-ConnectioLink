@@ -13,13 +13,13 @@ export const Prices = () => {
                         <h1 className='text-center text-5xl text-blue-800'>0$<span className='ml-1 text-sm text-sky-600'>/month</span></h1>
                         <div className='self-start md:self-center lg:self-start'>
                             <ul className="ml-5 order-list flex flex-col gap-6">
-                                <li>Acceso a foros en linea</li>
-                                <li>Talleres y eventos gratuitos</li>
-                                <li>Personalizacion de perfil</li>
-                                <li>Reserva de citas por pago</li>
-                                <li>Acceso a talleres por pago</li>
-                                <li className='invisible'>Relleno</li>
-                                <li className='invisible'>Relleno</li>
+                                <li>Access to online forums</li>
+                                <li>Free workshops and events</li>
+                                <li>Profile customization</li>
+                                <li>Quote reservation with payment</li>
+                                <li>Access to paid workshops</li>
+                                <li className='invisible'>Placeholder</li>
+                                <li className='invisible'>Placeholder</li>
                             </ul>
                         </div>
                         <Button
@@ -31,13 +31,13 @@ export const Prices = () => {
                         <h1 className='text-center text-5xl text-blue-800'>24.99$<span className='ml-1 text-sm text-sky-600'>/month</span></h1>
                         <div className='self-start md:self-center lg:self-start'>
                             <ul className="ml-5 order-list flex flex-col gap-6">
-                                <li>Acceso a foros en linea</li>
-                                <li>Talleres y eventos exclusivos</li>
-                                <li>Personalizacion de perfil</li>
-                                <li>Terapia personalizada individual</li>
-                                <li>Gráfica de analisis emocional</li>
-                                <li>Reserva de cinco citas gratuitas</li>
-                                <li>Acceso a comunidades de apoyo</li>
+                                <li>Access to online forums</li>
+                                <li>Exclusive workshops and events</li>
+                                <li>Profile customization</li>
+                                <li>Personalized individual therapy</li>
+                                <li>Emotional analysis graphics</li>
+                                <li>Five reservation free appointments</li>
+                                <li>Access to support communities</li>
                             </ul>
                         </div>
                         <Button
@@ -49,13 +49,13 @@ export const Prices = () => {
                         <h1 className='text-center text-5xl text-blue-800'>12.99$<span className='ml-1 text-sm text-sky-600'>/month</span></h1>
                         <div className='self-start md:self-center lg:self-start'>
                             <ul className="ml-5 order-list flex flex-col gap-6">
-                                <li>Acceso a foros en linea</li>
-                                <li>Talleres y eventos exclusivos</li>
-                                <li>Personalizacion de perfil</li>
-                                <li>Gráfica de analisis emocional</li>
-                                <li>Reserva de tres citas gratuitas</li>
-                                <li>Acceso a comunidades de apoyo</li>
-                                <li className='invisible'>Relleno</li>
+                                <li>Access to online forums</li>
+                                <li>Exclusive workshops and events</li>
+                                <li>Profile customization</li>
+                                <li>Emotional analysis graphics</li>
+                                <li>Three Reservation free appointments</li>
+                                <li>Access to support communities</li>
+                                <li className='invisible'>Placeholder</li>
                             </ul>
                         </div>
                         <Button

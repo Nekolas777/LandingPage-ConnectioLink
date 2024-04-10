@@ -1,41 +1,44 @@
 import ProfileOne from '../assets/testimonial-person-1.png';
 import ProfileTwo from '../assets/testimonial-person-2.png';
 import ProfileThree from '../assets/testimonial-person-3.png';
+import ProfileFour from '../assets/testimonial-person-4.png';
+import ProfileFive from '../assets/testimonial-person-5.jpg';
+import ProfileSix from '../assets/testimonial-person-6.jpg';
 
 export const cards = [
     {
-        "name": "John Smith",
-        "review": "AidManager has transformed the way we operate at 'Aid for All'. Their platform provides invaluable insights into participant and donor data, allowing us to optimize our strategies effectively. Additionally, its user-friendly interface has streamlined our workflow 1.",
+        "name": "Emily Rodriguez",
+        "review": "ConnectionLink has transformed the way we operate at 'Aid for All'. Their platform provides invaluable insights into participant and donor data, allowing us to optimize our strategies effectively. Additionally, its user-friendly interface has streamlined our workflow.",
         "position": "Director of Operations at Aid for All Company",
-        "profile": ProfileOne
+        "profile": ProfileFour
     },
     {
-        "name": "David Velez",
-        "review": "AidManager has transformed the way we operate at 'Aid for All'. Their platform provides invaluable insights into participant and donor data, allowing us to optimize our strategies effectively. Additionally, its user-friendly interface has streamlined our workflow 2.",
+        "name": "Mark Thompson",
+        "review": "ConnectionLink has transformed the way we operate at 'Aid for All'. Their platform provides invaluable insights into participant and donor data, allowing us to optimize our strategies effectively. Additionally, its user-friendly interface has streamlined our workflow.",
         "position": "CEO at Compassionate Hands Foundations",
         "profile": ProfileTwo
     },
     {
-        "name": "Michael Brown",
-        "review": "AidManager has transformed the way we operate at 'Aid for All'. Their platform provides invaluable insights into participant and donor data, allowing us to optimize our strategies effectively. Additionally, its user-friendly interface has streamlined our workflow 3.",
+        "name": "Steve Jobs",
+        "review": "ConnectionLink has transformed the way we operate at 'Aid for All'. Their platform provides invaluable insights into participant and donor data, allowing us to optimize our strategies effectively. Additionally, its user-friendly interface has streamlined our workflow.",
         "position": "Communication Manager At Solidary Foundation",
         "profile": ProfileThree
     },
     {
-        "name": "Benito Camelo",
-        "review": "AidManager has transformed the way we operate at 'Aid for All'. Their platform provides invaluable insights into participant and donor data, allowing us to optimize our strategies effectively. Additionally, its user-friendly interface has streamlined our workflow 4.",
+        "name": "Alexandra Johnson",
+        "review": "ConnectionLink has transformed the way we operate at 'Aid for All'. Their platform provides invaluable insights into participant and donor data, allowing us to optimize our strategies effectively. Additionally, its user-friendly interface has streamlined our workflow.",
         "position": "Communication Manager At Solidary Foundation",
-        "profile": ProfileOne
+        "profile": ProfileFive
     },
     {
-        "name": "Yesi Gameplays",
-        "review": "AidManager has transformed the way we operate at 'Aid for All'. Their platform provides invaluable insights into participant and donor data, allowing us to optimize our strategies effectively. Additionally, its user-friendly interface has streamlined our workflow 5.",
+        "name": "Emily Patel",
+        "review": "ConnectionLink has transformed the way we operate at 'Aid for All'. Their platform provides invaluable insights into participant and donor data, allowing us to optimize our strategies effectively. Additionally, its user-friendly interface has streamlined our workflow.",
         "position": "Communication Manager At Solidary Foundation",
-        "profile": ProfileOne
+        "profile": ProfileSix
     },
     {
-        "name": "Debora Melo",
-        "review": "AidManager has transformed the way we operate at 'Aid for All'. Their platform provides invaluable insights into participant and donor data, allowing us to optimize our strategies effectively. Additionally, its user-friendly interface has streamlined our workflow 6.",
+        "name": "Michael Nguyen",
+        "review": "ConnectionLink has transformed the way we operate at 'Aid for All'. Their platform provides invaluable insights into participant and donor data, allowing us to optimize our strategies effectively. Additionally, its user-friendly interface has streamlined our workflow.",
         "position": "Communication Manager At Solidary Foundation",
         "profile": ProfileOne
     }

@@ -1,0 +1,12 @@
+.order-list {
+    list-style-type: disc;
+    
+}
+
+.order-list li::marker {
+    color: #F86F6F; /* Cambia 'red' al color que desees */
+}
+
+.price {
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+}
